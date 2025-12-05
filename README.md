@@ -1,5 +1,7 @@
 # devcraft
 
+DISCLAIMER: This project was forked by me in a new account since I was locked out of my previous account and therefore can't continue making changes to that account.
+
 How to download and start playing Devcraft:
 
 1. Choose what version to download
